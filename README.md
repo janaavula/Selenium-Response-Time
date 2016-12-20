@@ -1,4 +1,6 @@
-# Selenium-Response-Time
+# Description 
+
+### Selenium Response Time  
 This code uses the below Navigation timing API concepts to capture response time.
 https://www.w3.org/TR/navigation-timing/
 
